@@ -1,1 +1,61 @@
+Gizlilik Politikası – BigLittleMan
 
+Geliştirici: REDSPID
+İletişim: cokyildirimmustafa@gmail.com
+
+Bu gizlilik politikası, REDSPID tarafından geliştirilen mobil oyun BigLittleMan için geçerlidir. Oyunu kullanarak, aşağıda belirtilen gizlilik uygulamalarını kabul etmiş olursunuz.
+
+1. Toplanan Bilgiler
+
+BigLittleMan, kendi başına kişisel bilgi toplamaz.
+
+Oyun sırasında kullanılan üçüncü taraf hizmetler (ör. Google AdMob) cihaz bilgilerini ve kullanım verilerini anonim olarak toplayabilir. Bu veriler; cihaz modeli, işletim sistemi, IP adresi, oyun içi kullanım istatistikleri ve hata raporlarını içerebilir.
+
+2. Reklam ve Çerezler
+
+BigLittleMan oyununda Google AdMob reklamları gösterilmektedir.
+
+AdMob, reklamları size uygun hale getirmek için çerezler ve cihaz tanımlayıcıları kullanabilir.
+
+AdMob’un gizlilik politikası:
+https://policies.google.com/technologies/ads?hl=tr
+
+3. Bilgilerin Kullanımı
+
+Toplanan bilgiler yalnızca:
+
+Reklamların kişiselleştirilmesi,
+
+Uygulamanın performansının ölçülmesi,
+
+Hataların giderilmesi
+amacıyla kullanılmaktadır.
+
+4. Üçüncü Taraf Bağlantılar
+
+Oyun içerisinde üçüncü taraf web sitelerine veya hizmetlerine yönlendiren bağlantılar olabilir.
+
+Bu sitelerin gizlilik politikalarından REDSPID sorumlu değildir.
+
+5. Çocukların Gizliliği
+
+BigLittleMan, 13 yaş altındaki çocuklar için uygundur ve bilerek kişisel bilgi toplamaz.
+
+Eğer çocuğunuza ait bilgilerin yanlışlıkla toplandığını düşünüyorsanız, bizimle iletişime geçebilirsiniz.
+
+6. Güvenlik
+
+Kullanıcı bilgilerinin güvenliği için makul önlemler alınmıştır.
+
+Ancak internet üzerinden veri iletiminin tamamen güvenli olduğu garanti edilemez.
+
+7. Değişiklikler
+
+Bu gizlilik politikası zaman zaman güncellenebilir.
+
+Güncellemeler bu sayfada yayınlandığı anda yürürlüğe girer.
+
+8. İletişim
+
+Gizlilik politikasıyla ilgili sorularınız için:
+📧 cokyildirimmustafa@gmail.com
