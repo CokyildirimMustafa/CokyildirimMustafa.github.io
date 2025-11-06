@@ -1,0 +1,59 @@
+Gizlilik Politikası – Sudoku
+
+Geliştirici: REDSPID
+İletişim: cokyildirimmustafa@gmail.com
+
+Bu gizlilik politikası, REDSPID tarafından geliştirilen Sudoku adlı mobil oyun için geçerlidir. Oyunu indirerek ve kullanarak aşağıda belirtilen gizlilik uygulamalarını kabul etmiş olursunuz.
+
+1. Toplanan Bilgiler
+
+Sudoku uygulaması, doğrudan herhangi bir kişisel bilgi toplamaz.
+
+Ancak uygulamada kullanılan üçüncü taraf hizmet sağlayıcıları (örneğin Google AdMob, Google Play Hizmetleri) cihazınıza ait aşağıdaki türden anonim verileri toplayabilir:
+
+Cihaz modeli ve işletim sistemi
+
+IP adresi (anonimleştirilmiş)
+
+Uygulama kullanım istatistikleri
+
+Çökme ve hata raporları
+
+Bu veriler yalnızca uygulamanın performansını analiz etmek ve reklam hizmetlerini sunmak amacıyla kullanılır.
+
+2. Reklamlar
+
+Sudoku uygulamasında Google AdMob aracılığıyla reklam gösterimi yapılır. Uygulamada kullanılan reklam türleri:
+
+Banner Reklamlar
+
+Geçişli (Interstitial) Reklamlar
+
+AdMob, reklamları kişiselleştirmek amacıyla çerezler ve cihaz tanımlayıcıları gibi teknolojilerden yararlanabilir.
+
+📄 AdMob Gizlilik Politikası: https://policies.google.com/technologies/ads?hl=tr
+
+3. Oyun İçi Satın Alım
+
+Sudoku uygulamasında oyun içi satın alma özelliği bulunmamaktadır. Bu nedenle kullanıcıya ait herhangi bir ödeme bilgisi toplanmaz veya saklanmaz.
+
+4. Üçüncü Taraf Bağlantılar
+
+Uygulamada harici bağlantılar (örneğin web siteleri) yer almaz.
+
+5. Çocukların Gizliliği
+
+Sudoku uygulaması 13 yaş altı kullanıcılar için uygundur ve kişisel bilgi toplamaz. Bir çocuğa ait bilgilerin yanlışlıkla toplandığını düşünüyorsanız lütfen bizimle iletişime geçin.
+
+6. Güvenlik
+
+Kullanıcı verilerinin güvenliği için uygun teknik önlemler alınmıştır. Ancak internet üzerinden veri iletiminde %100 güvenlik garanti edilemez.
+
+7. Değişiklikler
+
+Bu gizlilik politikası zaman zaman güncellenebilir. Değişiklikler bu sayfada yayınlandığı anda yürürlüğe girer.
+
+8. İletişim
+
+Gizlilik politikasıyla ilgili her türlü sorunuz için bizimle iletişime geçebilirsiniz:
+📧 cokyildirimmustafa@gmail.com
