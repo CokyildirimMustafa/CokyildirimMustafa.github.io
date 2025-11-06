@@ -3,59 +3,61 @@ Gizlilik Politikası – BigLittleMan
 Geliştirici: REDSPID
 İletişim: cokyildirimmustafa@gmail.com
 
-Bu gizlilik politikası, REDSPID tarafından geliştirilen mobil oyun BigLittleMan için geçerlidir. Oyunu kullanarak, aşağıda belirtilen gizlilik uygulamalarını kabul etmiş olursunuz.
+Bu gizlilik politikası, REDSPID tarafından geliştirilen BigLittleMan adlı mobil oyun için geçerlidir. Oyunu indirerek veya kullanarak, aşağıda belirtilen gizlilik uygulamalarını kabul etmiş olursunuz.
 
 1. Toplanan Bilgiler
 
-BigLittleMan, kendi başına kişisel bilgi toplamaz.
+BigLittleMan uygulaması, doğrudan herhangi bir kişisel bilgi toplamaz.
 
-Oyun sırasında kullanılan üçüncü taraf hizmetler (ör. Google AdMob) cihaz bilgilerini ve kullanım verilerini anonim olarak toplayabilir. Bu veriler; cihaz modeli, işletim sistemi, IP adresi, oyun içi kullanım istatistikleri ve hata raporlarını içerebilir.
+Ancak, oyun içinde kullanılan üçüncü taraf hizmet sağlayıcıları (örneğin Google AdMob ve Google Play Hizmetleri) cihazınıza ait aşağıdaki türden anonim bilgileri toplayabilir:
 
-2. Reklam ve Çerezler
+Cihaz modeli ve işletim sistemi bilgileri
 
-BigLittleMan oyununda Google AdMob reklamları gösterilmektedir.
+IP adresi (anonim olarak)
 
-AdMob, reklamları size uygun hale getirmek için çerezler ve cihaz tanımlayıcıları kullanabilir.
+Oyun içi kullanım verileri (kaç kez reklam izlediğiniz, hangi seviyede olduğunuz vs.)
 
-AdMob’un gizlilik politikası:
-https://policies.google.com/technologies/ads?hl=tr
+Uygulama çökme ve hata kayıtları
 
-3. Bilgilerin Kullanımı
+Bu veriler yalnızca analiz ve reklam hizmetlerini desteklemek amacıyla kullanılır.
 
-Toplanan bilgiler yalnızca:
+2. Reklamlar
 
-Reklamların kişiselleştirilmesi,
+BigLittleMan oyununda Google AdMob tarafından sağlanan reklamlar gösterilmektedir. Kullanıcı deneyimini artırmak ve reklamları kişiselleştirmek amacıyla şu reklam türleri kullanılabilir:
 
-Uygulamanın performansının ölçülmesi,
+Banner Reklamlar
 
-Hataların giderilmesi
-amacıyla kullanılmaktadır.
+Geçişli (Interstitial) Reklamlar
+
+Ödüllü Reklamlar (reklam izleyerek oyun içi ödül kazanma)
+
+AdMob, reklamları size uygun hale getirmek için cihaz tanımlayıcıları ve çerezleri kullanabilir.
+
+📄 AdMob Gizlilik Politikası: https://policies.google.com/technologies/ads?hl=tr
+
+3. Oyun İçi Satın Alımlar (IAP)
+
+BigLittleMan uygulaması, oyun içinde dijital ürünlerin satın alınmasına izin verir. Bu işlemler Google Play üzerinden gerçekleştirilir ve uygulama tarafından hiçbir ödeme bilgisi toplanmaz veya saklanmaz.
+
+📄 Google Play Gizlilik Politikası: https://policies.google.com/privacy
 
 4. Üçüncü Taraf Bağlantılar
 
-Oyun içerisinde üçüncü taraf web sitelerine veya hizmetlerine yönlendiren bağlantılar olabilir.
-
-Bu sitelerin gizlilik politikalarından REDSPID sorumlu değildir.
+Oyun içinde dış web sitelerine veya üçüncü taraf hizmetlerine yönlendirme yapılabilir. Bu sitelerin gizlilik uygulamaları geliştirici tarafından kontrol edilmez.
 
 5. Çocukların Gizliliği
 
-BigLittleMan, 13 yaş altındaki çocuklar için uygundur ve bilerek kişisel bilgi toplamaz.
-
-Eğer çocuğunuza ait bilgilerin yanlışlıkla toplandığını düşünüyorsanız, bizimle iletişime geçebilirsiniz.
+BigLittleMan, 13 yaş altındaki kullanıcılar için uygundur. Uygulama doğrudan kişisel bilgi toplamaz. Eğer bir çocuğa ait bilgilerin yanlışlıkla toplandığını düşünüyorsanız lütfen bizimle iletişime geçin.
 
 6. Güvenlik
 
-Kullanıcı bilgilerinin güvenliği için makul önlemler alınmıştır.
-
-Ancak internet üzerinden veri iletiminin tamamen güvenli olduğu garanti edilemez.
+Kullanıcı verilerinin güvenliği için gerekli teknik önlemler alınmıştır. Ancak, internet üzerinden gerçekleşen veri iletiminde %100 güvenlik garanti edilemez.
 
 7. Değişiklikler
 
-Bu gizlilik politikası zaman zaman güncellenebilir.
-
-Güncellemeler bu sayfada yayınlandığı anda yürürlüğe girer.
+Bu gizlilik politikası zaman zaman güncellenebilir. Değişiklikler bu sayfa üzerinden yayınlanarak yürürlüğe girer.
 
 8. İletişim
 
-Gizlilik politikasıyla ilgili sorularınız için:
+Gizlilik politikasıyla ilgili herhangi bir sorunuz olursa bizimle iletişime geçebilirsiniz:
 📧 cokyildirimmustafa@gmail.com
