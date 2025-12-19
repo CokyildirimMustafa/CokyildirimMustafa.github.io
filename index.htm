@@ -86,7 +86,7 @@ header {
   let sayfa = 0;
   const sayfaBoyutu = 3; // Her sayfada gösterilecek oyun sayısı
 
-  fetch('https://cokyildirimmustafa.github.io/oyunDosyalarim/veriler.json')
+  fetch('https://cokyildirimmustafa.github.io/veriler.json')
     .then(response => response.json())
     .then(data => {
       oyunlar = data;
